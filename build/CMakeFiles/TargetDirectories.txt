@@ -1,0 +1,4 @@
+/home/yuzhaoxi/Profiler/build/CMakeFiles/edit_cache.dir
+/home/yuzhaoxi/Profiler/build/CMakeFiles/rebuild_cache.dir
+/home/yuzhaoxi/Profiler/build/CMakeFiles/attach-myagent.dir
+/home/yuzhaoxi/Profiler/build/CMakeFiles/jpa.dir

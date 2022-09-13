@@ -1,0 +1,11 @@
+# ninja log v5
+0	367	1662437146368127869	CMakeFiles/jpa.dir/src/JProfiler/cpp/entry.cpp.o	b06346456603a312
+1	369	1662437146372127797	CMakeFiles/jpa.dir/src/JProfiler/cpp/javaAgent.cpp.o	1449277a921441a9
+1	410	1662437146436126654	CMakeFiles/jpa.dir/src/JProfiler/cpp/javaProfiler.cpp.o	6396f08f860d9879
+411	485	1662437146512125296	out/lib/libjpa.so	694ca9dda2515bdb
+2	620	1662437146652122794	CMakeFiles/attach-myagent.dir/java_compiled_attach-myagent	864b7d1b053b9c2c
+630	763	1662437146780120000	out/attach-myagent.jar	63f60b293b5ec470
+2	620	1662437146652122794	/home/yuzhaoxi/Profiler/build/CMakeFiles/attach-myagent.dir/java_compiled_attach-myagent	864b7d1b053b9c2c
+621	630	1662437146660122651	CMakeFiles/attach-myagent.dir/java_class_filelist	cfb0b774ad8032b1
+621	630	1662437146660122651	/home/yuzhaoxi/Profiler/build/CMakeFiles/attach-myagent.dir/java_class_filelist	cfb0b774ad8032b1
+630	763	1662437146780120000	/home/yuzhaoxi/Profiler/build/out/attach-myagent.jar	63f60b293b5ec470

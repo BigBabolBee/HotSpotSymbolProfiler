@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="139" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/CMakeLists.txt" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="33274" />
+          <option name="fileUrl" value="jar://$PROJECT_DIR$/../src/jdk-17.0.2/lib/src.zip!/java.base/java/lang/Thread.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="5013" />
+          <option name="fileUrl" value="jar://$PROJECT_DIR$/../src/jdk-17.0.2/lib/src.zip!/jdk.attach/sun/tools/attach/HotSpotVirtualMachine.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

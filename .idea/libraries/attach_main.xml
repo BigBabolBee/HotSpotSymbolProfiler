@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="attach-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/attach-main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

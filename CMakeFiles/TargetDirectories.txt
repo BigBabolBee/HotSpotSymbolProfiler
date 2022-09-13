@@ -1,0 +1,4 @@
+/home/yuzhaoxi/javaprofileragent/CMakeFiles/edit_cache.dir
+/home/yuzhaoxi/javaprofileragent/CMakeFiles/rebuild_cache.dir
+/home/yuzhaoxi/javaprofileragent/CMakeFiles/attach-myagent.dir
+/home/yuzhaoxi/javaprofileragent/CMakeFiles/jpa.dir
